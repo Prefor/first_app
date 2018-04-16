@@ -1,0 +1,28 @@
+Started GET "/" for 127.0.0.1 at 2018-04-15 22:53:46 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/Makhno/.rvm/gems/ruby-2.5.1/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/Makhno/.rvm/gems/ruby-2.5.1/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb (4.9ms)
+Completed 200 OK in 40ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-15 22:56:21 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/Makhno/.rvm/gems/ruby-2.5.1/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/Makhno/.rvm/gems/ruby-2.5.1/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb (5.5ms)
+Completed 200 OK in 31ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-15 22:56:46 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/Makhno/.rvm/gems/ruby-2.5.1/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/Makhno/.rvm/gems/ruby-2.5.1/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb (9.2ms)
+Completed 200 OK in 27ms (Views: 17.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-04-16 23:50:55 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/Makhno/.rvm/gems/ruby-2.5.1/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/Makhno/.rvm/gems/ruby-2.5.1/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb (4.7ms)
+Completed 200 OK in 34ms (Views: 16.1ms | ActiveRecord: 0.0ms)
+
+
